@@ -1,0 +1,9 @@
+# Exemple du sujet (option A : fichier texte)
+[W]
+o
+p -> o
+p -> ~v
+
+[D]
+o : v / v
+a : c / b
